@@ -1,0 +1,9 @@
+data_generation:
+  name: "Data Generation"
+  description: "Generate valid form data with realistic values"
+  expected_output: "JSON data ready for submission"
+
+form_submission:
+  name: "Form Submission"
+  description: "Execute browser automation to submit form"
+  expected_output: "Verification of successful submission"
