@@ -1,8 +1,21 @@
 {
-    "name": "John Doe",
-    "email": "john@example.com",
-    "phone": "1234567890",
-    "amount": "1000",
-    "paymentMethod": "PayPal",
-    "comments": "Test comment"
+    "text": "Sample Text",
+    "email": "test@example.com",
+    "password": "securepass123",
+    "number": "42",
+    "tel": "1234567890",
+    "url": "https://example.com",
+    "date": "2024-02-06",
+    "time": "14:30",
+    "datetime": "2024-02-06T14:30",
+    "month": "2024-02",
+    "week": "2024-W06",
+    "color": "#FF5733",
+    "range": "75",
+    "search": "search term",
+    "checkbox": "true",
+    "radio": "option1",
+    "select": "PayPal",
+    "multiselect": "Feature 1,Feature 2",
+    "textarea": "This is a sample comment\nWith multiple lines"
 }
